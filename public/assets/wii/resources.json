@@ -1,0 +1,87 @@
+{
+  "logo": {
+    "path": "/assets/wii/logo.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/11.15.0/icons/wii.svg",
+    "license": "CC0-1.0 (Simple Icons); marca Wii de Nintendo",
+    "modifications": "Recorte del viewBox al contorno; color gris. Geometría original sin cambios."
+  },
+  "covers": [
+    {
+      "id": "mario-galaxy",
+      "title": "Super Mario Galaxy",
+      "path": "/images/wii/mario-galaxy.webp",
+      "source": "https://en.wikipedia.org/wiki/File:SuperMarioGalaxy.jpg",
+      "license": "Fair use",
+      "rights": "Copyright del editor. La justificación de fair use de Wikipedia no constituye una licencia general de reutilización.",
+      "width": 256,
+      "height": 362,
+      "status": "source-verified-rights-reserved"
+    },
+    {
+      "id": "mario-kart",
+      "title": "Mario Kart Wii",
+      "path": "/images/wii/mario-kart.webp",
+      "source": "https://en.wikipedia.org/wiki/File:Mario_Kart_Wii.png",
+      "license": "Fair use",
+      "rights": "Copyright del editor. La justificación de fair use de Wikipedia no constituye una licencia general de reutilización.",
+      "width": 250,
+      "height": 267,
+      "status": "source-verified-rights-reserved"
+    },
+    {
+      "id": "twilight-princess",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "path": "/images/wii/twilight-princess.webp",
+      "source": "https://en.wikipedia.org/wiki/File:The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg",
+      "license": "Fair use",
+      "rights": "Copyright del editor. La justificación de fair use de Wikipedia no constituye una licencia general de reutilización.",
+      "width": 250,
+      "height": 354,
+      "status": "source-verified-rights-reserved"
+    },
+    {
+      "id": "wii-sports",
+      "title": "Wii Sports",
+      "path": "/images/wii/wii-sports.webp",
+      "source": "https://en.wikipedia.org/wiki/File:Wii_Sports_Sleeve_Cover_Art.jpg",
+      "license": "Fair use",
+      "rights": "Copyright del editor. La justificación de fair use de Wikipedia no constituye una licencia general de reutilización.",
+      "width": 316,
+      "height": 316,
+      "status": "source-verified-rights-reserved"
+    },
+    {
+      "id": "smash-brawl",
+      "title": "Super Smash Bros. Brawl",
+      "path": "/images/wii/smash-brawl.webp",
+      "source": "https://en.wikipedia.org/wiki/File:SSBB_Cover.jpg",
+      "license": "Fair use",
+      "rights": "Copyright del editor. La justificación de fair use de Wikipedia no constituye una licencia general de reutilización.",
+      "width": 268,
+      "height": 371,
+      "status": "source-verified-rights-reserved"
+    },
+    {
+      "id": "new-mario",
+      "title": "New Super Mario Bros. Wii",
+      "path": "/images/wii/new-mario.webp",
+      "source": "https://en.wikipedia.org/wiki/File:NewSuperMarioBrosWiiBoxart.png",
+      "license": "Fair use",
+      "rights": "Copyright del editor. La justificación de fair use de Wikipedia no constituye una licencia general de reutilización.",
+      "width": 270,
+      "height": 367,
+      "status": "source-verified-rights-reserved"
+    }
+  ],
+  "pointer": {
+    "path": "/assets/wii/pointer.svg",
+    "author": "GameXtore",
+    "license": "Original creado para este proyecto",
+    "description": "Manita inspirada en Wii; no se presenta como recurso oficial de Nintendo."
+  },
+  "audio": {
+    "author": "GameXtore",
+    "method": "Síntesis Web Audio con osciladores sinusoidales; no usa grabaciones de Nintendo."
+  },
+  "presentation": "Las imágenes son ilustraciones auténticas de las ediciones Wii, con marco y cabecera Wii creados en la interfaz usando el logotipo real. Mario Kart Wii y Wii Sports conservan los formatos cuadrados del material de origen. No son escaneos idénticos a las cajas de la referencia."
+}
